@@ -1,4 +1,6 @@
 # openMV-
 openMV的例程
 
-您可以使用 [Arduino-ESP32 Online Documentation](https://docs.espressif.com/projects/arduino-esp32/en/latest/) 来获取关于这个项目的所有信息。
+更多资料可在[OpenMV中文首页](http://openmv.cc) 上手教程。
+详细参数，中文文档，软件下载链接都在[OpenMV中文首页](http://openmv.cc)。
+[论坛](https://forum.singtown.com/)是提问的第一选择
